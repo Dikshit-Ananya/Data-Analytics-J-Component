@@ -1,2 +1,2 @@
 # Data-Analytics-J-Component
-Hotel Prediction and Sentiment Analysis
+Hotel Recommendation and Sentiment Analysis
