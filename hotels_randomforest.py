@@ -15,7 +15,7 @@ import pickle
 from sklearn.ensemble import RandomForestClassifier
 import warnings
 warnings.filterwarnings("ignore")
-data = pd.read_csv("HOTELS.csv")
+data = pd.read_csv("HOTELS_NEW.csv")
 # print(data1.head())
 #C = 'City'
 #city = input('Enter a location (Mumbai, Goa, Delhi or Bangalore):')
